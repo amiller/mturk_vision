@@ -48,3 +48,15 @@
       .topbar .btn {
         border: 0;
       }
+
+      div#images {
+         text-align: center;
+      }
+
+      img.parent div#images {
+         width:80%;
+      }
+
+      div#text {
+         text-align:center;
+      }
